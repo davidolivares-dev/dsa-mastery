@@ -46,20 +46,24 @@ Kotlin. Solutions target LeetCode's Kotlin environment.
 ## Weekly Flow (2-3 hours)
 
 **Session 1:**
+
 - `/deep-dive <pattern>` to learn the pattern
 - Solve 1-2 problems on LeetCode
 
 **Session 2:**
+
 - Solve 1-2 more problems
 - `/extract-notes <pattern>` to distill your notes
 - `/review <solution-file>` on your solutions
 
 **Before moving on:**
+
 - `/reflect <pattern>` to assess mastery
 
 ## Mastery Rule
 
 Do not move to the next pattern until:
+
 - You recognize the pattern immediately in new problems
 - You can explain why it works
 - You can write a clean Kotlin template from memory
@@ -68,6 +72,7 @@ Do not move to the next pattern until:
 ## Quality Checks
 
 When generating or editing content in this repo:
+
 - Cross-check LeetCode problem difficulties against the actual site — don't guess
 - Keep pattern counts consistent across all files (roadmap, README, CLAUDE.md)
 - Verify file paths and cross-references actually exist before committing

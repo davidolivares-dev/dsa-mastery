@@ -10,7 +10,7 @@ The approach: study one algorithmic pattern at a time, solve representative prob
 
 ## Repository Structure
 
-```
+```text
 roadmap/     Learning plan — 5 phases, 18 patterns, with progress tracking
 .claude/     Slash commands for Claude Code learning sessions
 patterns/    Reference library — your notes and solutions, filled in as you learn
@@ -56,7 +56,7 @@ This repo is built around [Claude Code](https://claude.com/claude-code) — Anth
 
 **Session 1 — Learn the pattern**
 
-```
+```text
 /deep-dive two-pointers-opposite-direction
 ```
 
@@ -64,19 +64,19 @@ Claude teaches the pattern. Then go to LeetCode and solve 1–2 problems (e.g., 
 
 **Session 2 — Practice and consolidate**
 
-```
+```text
 /solve 3Sum
 ```
 
 Claude guides you through a harder problem with questions, not answers. When stuck, ask for a hint. After solving it, paste the solution into the problems folder.
 
-```
+```text
 /extract-notes two-pointers-opposite-direction
 ```
 
 Claude reads everything you've solved and writes a clean reference sheet to `patterns/two-pointers-opposite-direction/notes.md`.
 
-```
+```text
 /review patterns/two-pointers-opposite-direction/problems/three-sum.kt
 ```
 
@@ -84,7 +84,7 @@ Claude reviews your solution for bugs, idiomatic Kotlin, and complexity — and 
 
 **Before moving on — mastery check**
 
-```
+```text
 /reflect two-pointers-opposite-direction
 ```
 
