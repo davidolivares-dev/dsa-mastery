@@ -48,7 +48,7 @@ This repo is built around [Claude Code](https://claude.com/claude-code) — Anth
 | `/deep-dive <pattern>` | Teaches the pattern from scratch: core intuition, recognition signals, a Kotlin template, complexity analysis, common mistakes, and representative problems |
 | `/solve <problem name>` | Socratic problem-solving — Claude asks questions to guide your thinking without giving the answer away |
 | `/extract-notes <pattern>` | Reads your solved problems and writes a distilled reference sheet to `patterns/<pattern>/notes.md` |
-| `/review <file-path>` | Reviews a Kotlin solution for correctness, idiomatic style, logic simplification, and optimal complexity |
+| `/code-review <file-path>` | Reviews a Kotlin solution for correctness, idiomatic style, logic simplification, and optimal complexity |
 | `/reflect <pattern>` | Five-question mastery assessment — gives you a proficiency rating and identifies specific gaps before you move on |
 | `/plan-roadmap` | Reviews your current progress across all patterns and recommends what to focus on next |
 
@@ -77,7 +77,7 @@ Claude guides you through a harder problem with questions, not answers. When stu
 Claude reads everything you've solved and writes a clean reference sheet to `patterns/two-pointers-opposite-direction/notes.md`.
 
 ```text
-/review patterns/two-pointers-opposite-direction/problems/three-sum.kt
+/code-review patterns/two-pointers-opposite-direction/problems/three-sum.kt
 ```
 
 Claude reviews your solution for bugs, idiomatic Kotlin, and complexity — and shows you an improved version.
