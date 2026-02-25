@@ -40,7 +40,7 @@ Kotlin. Solutions target LeetCode's Kotlin environment.
 | `/solve <problem>` | Guided Socratic problem-solving |
 | `/extract-notes <pattern>` | Distill solved problems into pattern notes |
 | `/reflect <pattern>` | Assess mastery before moving on |
-| `/review <file-path>` | Review a Kotlin solution for improvements |
+| `/code-review <file-path>` | Review a Kotlin solution for improvements |
 | `/plan-roadmap` | Review progress and plan next sessions |
 
 ## Weekly Flow (2-3 hours)
@@ -54,7 +54,7 @@ Kotlin. Solutions target LeetCode's Kotlin environment.
 
 - Solve 1-2 more problems
 - `/extract-notes <pattern>` to distill your notes
-- `/review <solution-file>` on your solutions
+- `/code-review <solution-file>` on your solutions
 
 **Before moving on:**
 
