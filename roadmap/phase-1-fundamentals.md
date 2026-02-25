@@ -22,10 +22,10 @@ Build comfort with array/string manipulation, hashmaps, and basic pointer techni
 
 **Mastery signals:**
 
-- [ ] Can identify when a problem needs O(1) lookup or counting
-- [ ] Can choose between HashMap, HashSet, and array-based frequency counting
-- [ ] Can explain why hashmap turns O(n^2) brute force into O(n)
-- [ ] Can implement frequency counting in Kotlin without looking anything up
+- [x] Can identify when a problem needs O(1) lookup or counting
+- [x] Can choose between HashMap, HashSet, and array-based frequency counting
+- [x] Can explain why hashmap turns O(n^2) brute force into O(n)
+- [x] Can implement frequency counting in Kotlin without looking anything up
 
 ---
 
